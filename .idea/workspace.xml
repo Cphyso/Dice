@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381c536f-00bb-4d81-aa06-fafc7c88ae11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YzYqhVbMDRmQCdMjhmkCPcZdd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Dice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381c536f-00bb-4d81-aa06-fafc7c88ae11" name="Default Changelist" comment="" />
+      <created>1583947082457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583947082457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1265" y="317" width="374" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1584015559218">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="1265" y="317" width="374" height="599" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1173@70.27.1850.1173" timestamp="1584015559218" />
+    <state x="725" y="363" width="530" height="507" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583947969780">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="725" y="363" width="530" height="507" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/70.27.1850.1173@70.27.1850.1173" timestamp="1583947969780" />
+    <state width="869" height="833" key="GridCell.Tab.0.bottom" timestamp="1584089527351">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="869" height="833" key="GridCell.Tab.0.bottom/70.27.1850.1173@70.27.1850.1173" timestamp="1584089527351" />
+    <state width="869" height="833" key="GridCell.Tab.0.center" timestamp="1584089527347">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="869" height="833" key="GridCell.Tab.0.center/70.27.1850.1173@70.27.1850.1173" timestamp="1584089527347" />
+    <state width="869" height="833" key="GridCell.Tab.0.left" timestamp="1584089527346">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="869" height="833" key="GridCell.Tab.0.left/70.27.1850.1173@70.27.1850.1173" timestamp="1584089527346" />
+    <state width="869" height="833" key="GridCell.Tab.0.right" timestamp="1584089527350">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state width="869" height="833" key="GridCell.Tab.0.right/70.27.1850.1173@70.27.1850.1173" timestamp="1584089527350" />
+    <state x="478" y="191" width="1024" height="852" key="SettingsEditor" timestamp="1583947774415">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="478" y="191" width="1024" height="852" key="SettingsEditor/70.27.1850.1173@70.27.1850.1173" timestamp="1583947774415" />
+    <state x="651" y="441" key="com.intellij.ide.util.TipDialog" timestamp="1584001814134">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="651" y="441" key="com.intellij.ide.util.TipDialog/70.27.1850.1173@70.27.1850.1173" timestamp="1584001814134" />
+    <state x="740" y="242" width="500" height="750" key="refactoring.ChangeSignatureDialog" timestamp="1584017757290">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="740" y="242" width="500" height="750" key="refactoring.ChangeSignatureDialog/70.27.1850.1173@70.27.1850.1173" timestamp="1584017757290" />
+    <state x="585" y="278" width="800" height="684" key="scopes" timestamp="1583947967696">
+      <screen x="70" y="27" width="1850" height="1173" />
+    </state>
+    <state x="585" y="278" width="800" height="684" key="scopes/70.27.1850.1173@70.27.1850.1173" timestamp="1583947967696" />
+  </component>
+</project>
